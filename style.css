@@ -1,9 +1,12 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-image: url(image/KHALID\ GAMAL.jpg);
+    width: 100%;
+    background-image:  url(image/KHALID\ GAMAL.jpg) ,url(image/moaz.jpg),url(download.jpg );
+    background-position: center, top right;
     background-size: contain;
     background-repeat: repeat;
+    
     direction: rtl;
 }
 
